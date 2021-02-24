@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="849px"
+	 height="499px" viewBox="0 0 849 499" style="enable-background:new 0 0 849 499;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#1D1D1B;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#1D1D1B;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#1D1D1B;stroke-width:0.25;stroke-miterlimit:10;}
+	.st4{fill:#BE1622;}
+	.st5{font-family:'Arial-ItalicMT';}
+	.st6{font-size:13.34px;}
+	.st7{fill:#1D1D1B;}
+	.st8{fill:#1D1D1B;stroke:#1D1D1B;stroke-width:0.25;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#1D1D1B;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:10;}
+	.st10{fill:#FFFFFF;stroke:#1D1D1B;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:10;}
+	.st11{fill:#575756;}
+	.st12{font-size:10.67px;}
+	.st13{fill:#FFFFFF;stroke:#9D9D9C;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#9D9D9C;stroke-miterlimit:10;}
+	.st15{fill:#9D9D9C;}
+	.st16{font-size:8px;}
+	.st17{fill:none;stroke:#B2B2B2;stroke-miterlimit:10;}
+	.st18{fill:#878787;}
+	.st19{fill:#00A19A;}
+</style>
+<g id="base-layer">
+	<title>cheme-example</title>
+	<line id="rail-top" class="st0" x1="837" y1="117" x2="130" y2="117"/>
+	<line id="buffer-left-top" class="st1" x1="130" y1="121" x2="130" y2="113"/>
+	<line id="buffer-right-top" class="st1" x1="837" y1="121" x2="837" y2="113"/>
+	<line id="rail-buttom" class="st0" x1="837" y1="368" x2="130" y2="368"/>
+	<line id="buffer-left-buttom" class="st1" x1="130" y1="372" x2="130" y2="365"/>
+	<line id="buffer-right-buttom" class="st1" x1="837" y1="372" x2="837" y2="364"/>
+	<line id="axis-end" class="st2" x1="837" y1="368" x2="837" y2="487"/>
+	<circle id="axis-end-circle" class="st3" cx="837" cy="487" r="11"/>
+	<text id="axis-end-text" transform="matrix(1 0 0 1 829 492)" class="st4 st5 st6">99</text>
+	<line id="axis-start" class="st2" x1="130" y1="368" x2="130" y2="487"/>
+	<circle id="axis-start-circle" class="st3" cx="130" cy="487" r="11"/>
+	<text id="axis-start-text" transform="matrix(1 0 0 1 123 492)" class="st4 st5 st6">99</text>
+	<line id="length-pointer" class="st2" x1="130" y1="460" x2="836" y2="460"/>
+	<text id="length" transform="matrix(1 0 0 1 461 457)" class="st7 st5 st6">200000</text>
+	<line id="axis-a" class="st2" x1="130" y1="117" x2="11" y2="117"/>
+	<circle id="axis-a-circle" class="st3" cx="11" cy="117" r="11"/>
+	<text id="axis-b-text" transform="matrix(1 0 0 1 6 121)" class="st4 st5 st6">А</text>
+	<line id="axis-b" class="st2" x1="130" y1="368" x2="11" y2="368"/>
+	<circle id="axis-b-circle" class="st3" cx="11" cy="368" r="11"/>
+	<text id="axis-b-text-2" transform="matrix(1 0 0 1 6 373)" class="st4 st5 st6">В</text>
+	<line id="width-pointer" class="st2" x1="37" y1="117" x2="37" y2="368"/>
+	<line id="top-line" class="st2" x1="837" y1="106" x2="130" y2="106"/>
+	<line id="button-line" class="st2" x1="837" y1="380" x2="130" y2="380"/>
+	<text id="width" transform="matrix(6.123234e-17 1 -1 6.123234e-17 41 224)" class="st7 st5 st6">16500</text>
+	<polygon class="st8" points="33,129 37,117 41,129 37,128 	"/>
+	<polygon class="st8" points="41,356 37,368 33,356 37,357 	"/>
+	<polygon class="st8" points="143,464 130,460 143,457 141,460 	"/>
+	<polygon class="st8" points="825,457 837,460 825,464 826,460 	"/>
+</g>
+<g id="position-layer">
+	<g id="position">
+		<rect id="position-support-bottom" x="202" y="359" class="st9" width="11" height="20.8"/>
+		<rect id="position-support-top" x="202" y="106" class="st9" width="11" height="20.8"/>
+		<line id="position-axis-support-bottom" class="st9" x1="207" y1="283" x2="207" y2="359"/>
+		<line id="position-axis-support-top" class="st9" x1="207" y1="127" x2="207" y2="202"/>
+		<line id="position-axis-top" class="st9" x1="207" y1="10" x2="207" y2="66"/>
+		<circle id="position-circle" class="st10" cx="207" cy="10" r="9"/>
+		<text id="position-text" transform="matrix(1 0 0 1 201 14)" class="st11 st5 st12">99</text>
+	</g>
+</g>
+<g id="ferm-layer">
+	<g id="ferm-break">
+		<line class="st2" x1="202" y1="127" x2="176" y2="106"/>
+		<line class="st2" x1="202" y1="106" x2="176" y2="127"/>
+		<line class="st2" x1="202" y1="380" x2="176" y2="359"/>
+		<line class="st2" x1="202" y1="359" x2="176" y2="380"/>
+	</g>
+</g>
+<g id="crane-layer">
+	<g id="crane-rigth-bottom">
+		<rect x="226" y="113" class="st13" width="30" height="17"/>
+		<rect x="226" y="355" class="st13" width="30" height="17"/>
+		<line class="st14" x1="251" y1="130" x2="251" y2="355"/>
+		<line class="st14" x1="230" y1="130" x2="230" y2="355"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 238 198)" class="st15 st5 st16">Q=2,00 тн., </text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 238 244)" class="st15 st5 st16">з</text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 238 248)" class="st15 st5 st16">ав.№ 5091</text>
+		<rect x="247" y="317" class="st13" width="19" height="30.2"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 252 328)" class="st15 st5 st12">К</text>
+	</g>
+	<g id="crane-rigth-center">
+		<rect x="313" y="113" class="st13" width="30" height="17"/>
+		<rect x="313" y="355" class="st13" width="30" height="17"/>
+		<line class="st14" x1="338" y1="130" x2="338" y2="355"/>
+		<line class="st14" x1="317" y1="130" x2="317" y2="355"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 325 198)" class="st15 st5 st16">Q=2,00 тн., </text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 325 244)" class="st15 st5 st16">з</text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 325 248)" class="st15 st5 st16">ав.№ 5091</text>
+		<rect x="334" y="228" class="st13" width="19" height="30.2"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 339 238)" class="st15 st5 st12">К</text>
+	</g>
+	<g id="crane-rigth-top">
+		<rect x="384" y="113" class="st13" width="30" height="17"/>
+		<rect x="384" y="355" class="st13" width="30" height="17"/>
+		<line class="st14" x1="409" y1="130" x2="409" y2="355"/>
+		<line class="st14" x1="389" y1="130" x2="389" y2="355"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 397 198)" class="st15 st5 st16">Q=2,00 тн., </text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 397 244)" class="st15 st5 st16">з</text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 397 248)" class="st15 st5 st16">ав.№ 5091</text>
+		<rect x="405" y="138" class="st13" width="19" height="30.2"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 410 149)" class="st15 st5 st12">К</text>
+	</g>
+	<g id="crane-left-bottom">
+		<rect x="455" y="113" class="st13" width="30" height="17"/>
+		<rect x="455" y="355" class="st13" width="30" height="17"/>
+		<line class="st14" x1="480" y1="130" x2="480" y2="355"/>
+		<line class="st17" x1="460" y1="130" x2="460" y2="355"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 468 198)" class="st15 st5 st16">Q=2,00 тн., </text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 468 244)" class="st15 st5 st16">з</text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 468 248)" class="st15 st5 st16">ав.№ 5091</text>
+		<rect x="446" y="317" class="st13" width="19" height="30.2"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 451 328)" class="st15 st5 st12">К</text>
+	</g>
+	<g id="crane-left-center">
+		<rect x="532" y="113" class="st13" width="30" height="17"/>
+		<rect x="532" y="355" class="st13" width="30" height="17"/>
+		<line class="st14" x1="557" y1="130" x2="557" y2="355"/>
+		<line class="st14" x1="537" y1="130" x2="537" y2="355"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 544 198)" class="st15 st5 st16">Q=2,00 тн., </text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 544 244)" class="st15 st5 st16">з</text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 544 248)" class="st15 st5 st16">ав.№ 5091</text>
+		<rect x="522" y="226" class="st13" width="19" height="30.2"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 528 237)" class="st15 st5 st12">К</text>
+	</g>
+	<g id="crane-left-top">
+		<rect x="592" y="113" class="st13" width="30" height="17"/>
+		<rect x="592" y="355" class="st13" width="30" height="17"/>
+		<line class="st14" x1="617" y1="130" x2="617" y2="355"/>
+		<line class="st14" x1="597" y1="130" x2="597" y2="355"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 604 198)" class="st18 st5 st16">Q=2,00 тн., </text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 604 244)" class="st18 st5 st16">з</text>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 604 248)" class="st18 st5 st16">ав.№ 5091</text>
+		<rect x="583" y="138" class="st13" width="19" height="30.2"/>
+		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 588 149)" class="st15 st5 st12">К</text>
+	</g>
+</g>
+<g id="text-layer">
+	<text id="position-point-width-center" transform="matrix(1 0 0 1 200 249)" class="st19 st5 st6">+8</text>
+	<text id="position-point-height-top" transform="matrix(1 0 0 1 204 97)" class="st19 st5 st6">0</text>
+	<text id="position-point-height-bottom" transform="matrix(1 0 0 1 200 396)" class="st19 st5 st6">20</text>
+</g>
+</svg>

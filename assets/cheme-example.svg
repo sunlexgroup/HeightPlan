@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="848" height="497" viewBox="0 0 850 500">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-17, .cls-2, .cls-3, .cls-8 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-7, .cls-8, .cls-9 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-1, .cls-11, .cls-12, .cls-17, .cls-2, .cls-3, .cls-4, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-3, .cls-4, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0.25px;
+      }
+
+      .cls-11, .cls-4, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-13, .cls-14, .cls-15, .cls-16, .cls-18, .cls-19, .cls-20, .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-20, .cls-5, .cls-6 {
+        font-size: 13.34px;
+      }
+
+      .cls-5 {
+        fill: #be1622;
+      }
+
+      .cls-10, .cls-14, .cls-15, .cls-16, .cls-18, .cls-19, .cls-20, .cls-5, .cls-6 {
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
+        text-align: center;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #1d1d1b;
+      }
+
+      .cls-8, .cls-9 {
+        stroke-linecap: square;
+      }
+
+      .cls-10, .cls-16 {
+        font-size: 10.67px;
+      }
+
+      .cls-10 {
+        fill: #575756;
+      }
+
+      .cls-11, .cls-12 {
+        stroke: #9d9d9c;
+      }
+
+      .cls-14, .cls-15, .cls-18, .cls-19 {
+        font-size: 8px;
+      }
+
+      .cls-14, .cls-15, .cls-16 {
+        fill: #9d9d9c;
+      }
+
+      .cls-15, .cls-19 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-17 {
+        stroke: #b2b2b2;
+      }
+
+      .cls-18, .cls-19 {
+        fill: #878787;
+      }
+
+      .cls-20 {
+        fill: #00a19a;
+      }
+    </style>
+  </defs>
+  <title>cheme-example</title>
+  <g id="base-layer">
+    <line id="rail-top" class="cls-1" x1="837" y1="116" x2="130" y2="116"/>
+    <line id="buffer-left-top" class="cls-2" x1="130" y1="120" x2="130" y2="112"/>
+    <line id="buffer-right-top" class="cls-2" x1="837" y1="120" x2="837" y2="112"/>
+    <line id="rail-buttom" class="cls-1" x1="837" y1="367" x2="130" y2="367"/>
+    <line id="buffer-left-buttom" class="cls-2" x1="130" y1="371" x2="130" y2="364"/>
+    <line id="buffer-right-buttom" class="cls-2" x1="837" y1="371" x2="837" y2="363"/>
+    <line id="axis-end" class="cls-3" x1="837" y1="367" x2="837" y2="486"/>
+    <circle id="axis-end-circle" class="cls-4" cx="837" cy="486" r="11"/>
+    <text id="axis-end-text" class="cls-5" transform="translate(829 491)">99</text>
+    <line id="axis-start" class="cls-3" x1="130" y1="367" x2="130" y2="486"/>
+    <circle id="axis-start-circle" class="cls-4" cx="130" cy="486" r="11"/>
+    <text id="axis-start-text" class="cls-5" transform="translate(123 491)">99</text>
+    <line id="length-pointer" class="cls-3" x1="130" y1="459" x2="836" y2="459"/>
+    <text id="length" class="cls-6" transform="translate(461 456)">200000</text>
+    <line id="axis-a" class="cls-3" x1="130" y1="116" x2="11" y2="116"/>
+    <circle id="axis-a-circle" class="cls-4" cx="11" cy="116" r="11"/>
+    <text id="axis-b-text" class="cls-5" transform="translate(6 120)">А</text>
+    <line id="axis-b" class="cls-3" x1="130" y1="367" x2="11" y2="367"/>
+    <circle id="axis-b-circle" class="cls-4" cx="11" cy="367" r="11"/>
+    <text id="axis-b-text-2" class="cls-5" transform="translate(6 372)">В</text>
+    <line id="width-pointer" class="cls-3" x1="37" y1="116" x2="37" y2="367"/>
+    <line id="top-line" class="cls-3" x1="837" y1="105" x2="130" y2="105"/>
+    <line id="button-line" class="cls-3" x1="837" y1="379" x2="130" y2="379"/>
+    <text id="width" class="cls-6" transform="translate(41 223) rotate(90)">16500</text>
+    <polygon class="cls-7" points="33 128 37 116 41 128 37 127 33 128"/>
+    <polygon class="cls-7" points="41 355 37 367 33 355 37 356 41 355"/>
+    <polygon class="cls-7" points="143 463 130 459 143 456 141 459 143 463"/>
+    <polygon class="cls-7" points="825 456 837 459 825 463 826 459 825 456"/>
+  </g>
+  <g id="position-layer">
+    <g id="position">
+      <rect id="position-support-bottom" class="cls-8" x="202" y="358" width="11" height="20.81"/>
+      <rect id="position-support-top" class="cls-8" x="202" y="105" width="11" height="20.81"/>
+      <line id="position-axis-support-bottom" class="cls-8" x1="207" y1="282" x2="207" y2="358"/>
+      <line id="position-axis-support-top" class="cls-8" x1="207" y1="126" x2="207" y2="201"/>
+      <line id="position-axis-top" class="cls-8" x1="207" y1="9" x2="207" y2="65"/>
+      <circle id="position-circle" class="cls-9" cx="207" cy="9" r="9"/>
+      <text id="position-text" class="cls-10" transform="translate(201 13)">99</text>
+    </g>
+  </g>
+  <g id="ferm-layer">
+    <g id="ferm-break">
+      <line class="cls-3" x1="202" y1="126" x2="176" y2="105"/>
+      <line class="cls-3" x1="202" y1="105" x2="176" y2="126"/>
+      <line class="cls-3" x1="202" y1="379" x2="176" y2="358"/>
+      <line class="cls-3" x1="202" y1="358" x2="176" y2="379"/>
+    </g>
+  </g>
+  <g id="crane-layer">
+    <g id="crane-rigth-bottom">
+      <rect class="cls-11" x="226" y="112" width="30" height="17.01"/>
+      <rect class="cls-11" x="226" y="354" width="30" height="17.01"/>
+      <line class="cls-12" x1="251" y1="129" x2="251" y2="354"/>
+      <line class="cls-12" x1="230" y1="129" x2="230" y2="354"/>
+      <g class="cls-13">
+        <text class="cls-14" transform="translate(238 197) rotate(90)">Q=2,00 тн., </text>
+        <text class="cls-15" transform="translate(238 243) rotate(90)">з</text>
+        <text class="cls-14" transform="translate(238 247) rotate(90)">ав.№ 5091</text>
+      </g>
+      <rect class="cls-11" x="247" y="316" width="19" height="30.24"/>
+      <text class="cls-16" transform="translate(252 327) rotate(90)">К</text>
+    </g>
+    <g id="crane-rigth-center">
+      <rect class="cls-11" x="313" y="112" width="30" height="17.01"/>
+      <rect class="cls-11" x="313" y="354" width="30" height="17.01"/>
+      <line class="cls-12" x1="338" y1="129" x2="338" y2="354"/>
+      <line class="cls-12" x1="317" y1="129" x2="317" y2="354"/>
+      <g class="cls-13">
+        <text class="cls-14" transform="translate(325 197) rotate(90)">Q=2,00 тн., </text>
+        <text class="cls-15" transform="translate(325 243) rotate(90)">з</text>
+        <text class="cls-14" transform="translate(325 247) rotate(90)">ав.№ 5091</text>
+      </g>
+      <rect class="cls-11" x="334" y="227" width="19" height="30.24"/>
+      <text class="cls-16" transform="translate(339 237) rotate(90)">К</text>
+    </g>
+    <g id="crane-rigth-top">
+      <rect class="cls-11" x="384" y="112" width="30" height="17.01"/>
+      <rect class="cls-11" x="384" y="354" width="30" height="17.01"/>
+      <line class="cls-12" x1="409" y1="129" x2="409" y2="354"/>
+      <line class="cls-12" x1="389" y1="129" x2="389" y2="354"/>
+      <g class="cls-13">
+        <text class="cls-14" transform="translate(397 197) rotate(90)">Q=2,00 тн., </text>
+        <text class="cls-15" transform="translate(397 243) rotate(90)">з</text>
+        <text class="cls-14" transform="translate(397 247) rotate(90)">ав.№ 5091</text>
+      </g>
+      <rect class="cls-11" x="405" y="137" width="19" height="30.24"/>
+      <text class="cls-16" transform="translate(410 148) rotate(90)">К</text>
+    </g>
+    <g id="crane-left-bottom">
+      <rect class="cls-11" x="455" y="112" width="30" height="17.01"/>
+      <rect class="cls-11" x="455" y="354" width="30" height="17.01"/>
+      <line class="cls-12" x1="480" y1="129" x2="480" y2="354"/>
+      <line class="cls-17" x1="460" y1="129" x2="460" y2="354"/>
+      <g class="cls-13">
+        <text class="cls-14" transform="translate(468 197) rotate(90)">Q=2,00 тн., </text>
+        <text class="cls-15" transform="translate(468 243) rotate(90)">з</text>
+        <text class="cls-14" transform="translate(468 247) rotate(90)">ав.№ 5091</text>
+      </g>
+      <rect class="cls-11" x="446" y="316" width="19" height="30.24"/>
+      <text class="cls-16" transform="translate(451 327) rotate(90)">К</text>
+    </g>
+    <g id="crane-left-center">
+      <rect class="cls-11" x="532" y="112" width="30" height="17.01"/>
+      <rect class="cls-11" x="532" y="354" width="30" height="17.01"/>
+      <line class="cls-12" x1="557" y1="129" x2="557" y2="354"/>
+      <line class="cls-12" x1="537" y1="129" x2="537" y2="354"/>
+      <g class="cls-13">
+        <text class="cls-14" transform="translate(544 197) rotate(90)">Q=2,00 тн., </text>
+        <text class="cls-15" transform="translate(544 243) rotate(90)">з</text>
+        <text class="cls-14" transform="translate(544 247) rotate(90)">ав.№ 5091</text>
+      </g>
+      <rect class="cls-11" x="522" y="225" width="19" height="30.24"/>
+      <text class="cls-16" transform="translate(528 236) rotate(90)">К</text>
+    </g>
+    <g id="crane-left-top">
+      <rect class="cls-11" x="592" y="112" width="30" height="17.01"/>
+      <rect class="cls-11" x="592" y="354" width="30" height="17.01"/>
+      <line class="cls-12" x1="617" y1="129" x2="617" y2="354"/>
+      <line class="cls-12" x1="597" y1="129" x2="597" y2="354"/>
+      <g class="cls-13">
+        <text class="cls-18" transform="translate(604 197) rotate(90)">Q=2,00 тн., </text>
+        <text class="cls-19" transform="translate(604 243) rotate(90)">з</text>
+        <text class="cls-18" transform="translate(604 247) rotate(90)">ав.№ 5091</text>
+      </g>
+      <rect class="cls-11" x="583" y="137" width="19" height="30.24"/>
+      <text class="cls-16" transform="translate(588 148) rotate(90)">К</text>
+    </g>
+  </g>
+  <g id="text-layer">
+    <text id="position-point-width-center" class="cls-20" transform="translate(200 248)">+8</text>
+    <text id="position-point-height-top" class="cls-20" transform="translate(204 96)">0</text>
+    <text id="position-point-height-bottom" class="cls-20" transform="translate(200 395)">20</text>
+  </g>
+</svg>
